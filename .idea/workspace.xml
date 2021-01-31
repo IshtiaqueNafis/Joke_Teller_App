@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13b92e07-3e55-4cde-9285-93745b08b163" name="Default Changelist" comment="added project files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1npx4Q4fITGCgOcKfTZxB5iPf83" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b92e07-3e55-4cde-9285-93745b08b163" name="Default Changelist" comment="" />
+      <created>1612100642102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612100642102</updated>
+      <workItem from="1612100643262" duration="988000" />
+      <workItem from="1612118463020" duration="449000" />
+      <workItem from="1612119299753" duration="782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612119679871">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612119679871" />
+    <state x="1099" y="391" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1612101565802">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1099" y="391" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612101565802" />
+    <state x="1104" y="620" key="Github.CreateGistDialog" timestamp="1612101498744">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1104" y="620" key="Github.CreateGistDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612101498744" />
+    <state x="1158" y="598" width="560" height="294" key="Github.ShareDialog" timestamp="1612101382366">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1158" y="598" width="560" height="294" key="Github.ShareDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612101382366" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1612100944681">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612100944681" />
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1612101637922">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612101637922" />
+  </component>
+</project>
