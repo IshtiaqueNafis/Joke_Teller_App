@@ -16,4 +16,20 @@ function test(){
     });
 }
 
-test()
+async function getJokes(){
+    let joke = '';
+
+    const apiUrl = 'https://v2.jokeapi.dev/joke/Any';
+    try {
+    const response = await fetch(apiUrl); // get the data.
+    const data = await response.json; // this becomes the data converted to json
+    if(data.setup){ // check whether is data avilable.
+        joke = `${data.setup} ... ${data.delivery}`; // this whehther data has two parts
+    }else {
+        joke = data.joke; // get the single line of joke
+    }
+    }catch(error){
+        //catch errors
+        console.log('whhops',error)
+    }
+}
