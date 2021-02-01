@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13b92e07-3e55-4cde-9285-93745b08b163" name="Default Changelist" comment="added button enable and disable file">
-      <change afterPath="$PROJECT_DIR$/voice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-    </list>
+    <list default="true" id="13b92e07-3e55-4cde-9285-93745b08b163" name="Default Changelist" comment="refactored code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <updated>1612100642102</updated>
       <workItem from="1612100643262" duration="988000" />
       <workItem from="1612118463020" duration="449000" />
-      <workItem from="1612119299753" duration="6625000" />
+      <workItem from="1612119299753" duration="7244000" />
     </task>
     <task id="LOCAL-00001" summary="added text to audio api">
       <created>1612120206709</created>
@@ -90,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612160945221</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refactored code">
+      <created>1612161415494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612161415494</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +116,8 @@
     <MESSAGE value="added joke api" />
     <MESSAGE value="added translation" />
     <MESSAGE value="added button enable and disable file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added button enable and disable file" />
+    <MESSAGE value="refactored code" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612119679871">
@@ -136,10 +140,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612100944681" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1612161398860">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1612161418739">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612161398860" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612161418739" />
     <state x="92" y="92" width="2376" height="1216" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1612101637922">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
